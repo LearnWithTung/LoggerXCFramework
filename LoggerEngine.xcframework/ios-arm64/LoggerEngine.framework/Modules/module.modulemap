@@ -1,0 +1,4 @@
+framework module LoggerEngine {
+  header "LoggerEngine-Swift.h"
+  requires objc
+}
